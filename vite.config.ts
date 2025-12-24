@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/killedbygoogle_final/',
+    base: '/Killedbygoogle/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
